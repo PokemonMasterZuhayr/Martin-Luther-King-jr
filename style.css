@@ -1,0 +1,16 @@
+#kj{
+    width: 400px;
+}
+body{
+    text-align: center;
+}
+#Kingjr{
+background: linear-gradient(rgb(181, 9, 255),blue);    
+}
+.links{
+    background-color: aqua;
+    color: chocolate;
+    font-size: 30px;
+    cursor: pointer;
+}
+#heading{font-family: 'Roboto', sans-serif;}
